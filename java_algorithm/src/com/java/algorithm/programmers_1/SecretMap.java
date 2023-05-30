@@ -15,7 +15,7 @@ public class SecretMap {
 
 	public static String[] Solution(int n, int[] arr1, int[] arr2) { // ¼±¾ð
 		char map1[][] = new char[n][n];
-		char map2[][] = new char[n][n];
+		char map2[][] = new char[n][n];    
 		String resultMap[][] = new String[n][n];
 		String[] answer = new String[n];
 
